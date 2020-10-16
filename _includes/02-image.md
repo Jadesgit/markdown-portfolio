@@ -1,1 +1,1 @@
-![Image of OG Darth Vader](_includes/ogdarthvader.jpg)
+![Image of OG Darth Vader](ogdarthvader.jpg)

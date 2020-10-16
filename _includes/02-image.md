@@ -1,1 +1,1 @@
-![Image of OG Darth Vader](_includes/ogdarthvader.jpg) !Weak
+![Image of OG Darth Vader](_includes/ogdarthvader.jpg)

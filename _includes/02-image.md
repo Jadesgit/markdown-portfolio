@@ -1,1 +1,1 @@
-![Image of OG Darth Vader](_includes/ogdarthvader.jpg)
+![Image of OG Darth Vader](/home/jade/git/markdown-portfolio/markdown-portfolio/_includes/ogdarthvader.jpg)
